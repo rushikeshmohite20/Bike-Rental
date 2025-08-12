@@ -1,30 +1,12 @@
 # 🚲 Bike Rental Web Application
 
 ## 📌 Overview
-The **Bike Rental Web Application** is a complete solution for managing bike rentals online.  
-It offers customers a seamless way to **browse bikes, book rentals, make payments**, and track bookings, while providing **admins** with tools to manage bikes, bookings, and customer queries.
+The **Bike Rental Web Application** is a secure and scalable platform for renting two-wheelers online.  
+It enables **users** to create accounts, explore various bike options, choose rental durations, and make bookings seamlessly with integrated Razorpay payments.  
+**Administrators** can manage bike companies, variants, inventory, and approve bookings while assigning specific bikes.  
 
----
-
-## ✨ Functionalities
-
-### **User**
-- Registration & Login
-- Authenticated User Page
-- Book Bike
-- Booking Confirmation
-- Razorpay Payment Gateway Integration (Test Mode)
-- View Profile & Bookings
-- Contact Us
-
-### **Admin**
-- Login
-- Authenticated Admin Page
-- Add Bike
-- Edit Bike
-- Delete Bike
-- View All Bookings
-- View Contact Us Records
+Built with **React.js** (frontend) and **Spring Boot, J2EE, Spring Data JPA, and MySQL** (backend), the application ensures **data security** through Spring Security, password encryption, and JWT-based API protection.  
+It automates rental operations, reduces manual effort, and delivers a modern, efficient rental experience. 
 
 ---
 
@@ -36,4 +18,24 @@ It offers customers a seamless way to **browse bikes, book rentals, make payment
 
 ---
 
-## 📂 Project Structure
+## ✨ Functionalities
+
+### **User**
+- Homepage
+- Registration Page
+- Login Page
+- All Bikes Page
+- Booking Page
+- Razorpay Payment Gateway Integration (Test Mode)
+- View Profile & Bookings
+
+### **Admin**
+- Login
+- Admin Homepage
+- Admin Bikes Page
+- Add Bike
+- Edit Bike
+- Delete Bike
+- View All Bookings
+  
+---
