@@ -22,6 +22,7 @@ It automates rental operations, reduces manual effort, and delivers a modern, ef
 
 ### **User**
 - Homepage
+  ![Homepage](screenshots/Homepage.png)
 - Registration Page
 - Login Page
 - All Bikes Page
