@@ -28,7 +28,7 @@ It automates rental operations, reduces manual effort, and delivers a modern, ef
 - Login Page
   ![Login](screenshots/Login.png)
 - All Bikes Page
-  ![All Bikes](screenshots/All%20Bikes.png)
+  ![All Bikes](screenshots/Bikes.png)
 - Booking Page
   ![Booking Page](screenshots/Booking%20Page.png)
 - Razorpay Payment Gateway Integration (Test Mode)
